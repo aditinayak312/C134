@@ -1,0 +1,22 @@
+#heading{
+    margin-top: 0%;
+    width:100%;
+    font-size: 30px;
+}
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: 'Klee One', cursive;
+}
+#status{
+    width:45%;
+    font-size: 30px;
+}
+a{
+    margin-top:70px;
+    font-size: 30px !important;
+    color:blue;
+    width: 400px !important;
+    background-color: aquamarine;
+    border-radius: 30px !important;
+}
